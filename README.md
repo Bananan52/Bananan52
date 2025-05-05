@@ -1,16 +1,16 @@
-## Hi there 👋
-
-<!--
-**Bananan52/Bananan52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Unity  разработчик
+ Обо  мне:
+ 1.5год я работаю в Unity,так или иначе создавая игры.
+ 
+ Навыки: 
+   разработка на Unity(2d/3d,Android PC)
+   
+  Нормалъные занание С#
+  
+  Базовый опыт роботы с Git
+  
+  Пониманиe принципов ООП и SOLID
+  
+  Базовый знания  (Анимация UI,движение объектов)
+![5201918734145547276 (2)](https://github.com/user-attachments/assets/5fa82cad-a786-4fe4-8f13-3009a756d922)
+ Связи:t.me/hom_UF
